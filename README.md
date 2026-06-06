@@ -26,9 +26,14 @@ It is not just a simple ChatGPT or any chatbot, it is the gamechanger for you th
       VS Code Insiders (For getting early access to new updates and features): https://code.visualstudio.com/insiders
 2. Set Up VS Code (very easy, the software will guide you)
 3. Download ZIP file of my repository files:
-   a. <img width="1904" height="966" alt="image" src="https://github.com/user-attachments/assets/08d00400-f64a-491e-90ec-c8bb48beaa99" />
-      ........Then........
-   b. <img width="949" height="112" alt="image" src="https://github.com/user-attachments/assets/f28377a0-2998-4d1e-8717-08f69462d869" />
+
+   <img width="1904" height="966" alt="image" src="https://github.com/user-attachments/assets/08d00400-f64a-491e-90ec-c8bb48beaa99" />
+
+
+   ........Then........
+
+   
+   <img width="949" height="112" alt="image" src="https://github.com/user-attachments/assets/f28377a0-2998-4d1e-8717-08f69462d869" />
 
    
    
