@@ -93,6 +93,11 @@ Step 2: Run these commands in Powershell one after the other: (For no Virtual En
    ```
 
 <strong> ** IMPORTANT NOTE: </strong> YOUR_JARVIS_FOLDER_DIRECTORY can be for example: C:\JARVIS or F:\J.A.R.V.I.S or according to your saved folder PATH. 
+#
+## Social Media
+Follow our team, CodeCrafters on Instagram: https://www.instagram.com/codecrafters_org_2011sdp/
+
+Follow my Personal Account: https://www.instagram.com/soura_dipta2011/
     
  
 
