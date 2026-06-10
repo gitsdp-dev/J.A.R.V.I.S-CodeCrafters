@@ -1277,7 +1277,6 @@ class MainWindow(QMainWindow):
 
         left_col=QVBoxLayout(); left_col.setSpacing(2)
         left_col.addWidget(_badge("J.A.R.V.I.S",C.PRI_DIM,8))
-        left_col.addWidget(_badge("STARK INDUSTRIES",C.HOT_DIM,6))
         lay.addLayout(left_col); lay.addStretch()
 
         mid=QVBoxLayout(); mid.setSpacing(3)
