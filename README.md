@@ -96,8 +96,6 @@ Step 2: Run these commands in Powershell one after the other: (For no Virtual En
 #
 ## Social Media
 Follow our team, CodeCrafters on Instagram: https://www.instagram.com/codecrafters_org_2011sdp/
-
-Follow my Personal Account: https://www.instagram.com/soura_dipta2011/
     
  
 
