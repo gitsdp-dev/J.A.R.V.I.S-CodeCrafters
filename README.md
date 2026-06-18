@@ -252,7 +252,7 @@ https://www.instagram.com/codecrafters_org_2011sdp/
 If you enjoy J.A.R.V.I.S:
 
 * ⭐ Star the repository
-* 🍴 Fork the project
+* 🍴  Fork the project
 * 🐛 Report issues
 * 🚀 Contribute improvements
 * 📢 Share it with others
